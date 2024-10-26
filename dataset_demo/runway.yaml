@@ -1,0 +1,6 @@
+path: C:/Users/Annabelle/Desktop/runway-bounding-box-detection NEW/dataset_demo
+train: C:/Users/Annabelle/Desktop/runway-bounding-box-detection NEW/dataset_demo/images/train
+val: C:/Users/Annabelle/Desktop/runway-bounding-box-detection NEW/dataset_demo/images/val
+nc: 1
+names: ['runway']
+
