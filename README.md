@@ -18,7 +18,7 @@ This allows anyone to be able to run this on their computer at home without need
 1. Dataset Preparation:
 - The script samples a subset from the LARD dataset, more specifically from the LARD_train_BIRK_LFST folder
 (https://entrepot.recherche.data.gouv.fr/dataset.xhtml?persistentId=doi:10.57745/MZSH2Y), to create train and validation sets.
-NOTE: It should not matter which data set folder you take from lard data set download list, i chose LARD_train_BIRK_LFST randomly
+NOTE: It should not matter which data set folder you take from LARD data set download list. I chose LARD_train_BIRK_LFST randomly
 - Bounding box coordinates from the metadata are converted to YOLO format and adjusted for image resizing.
 
 2. Model Training:
