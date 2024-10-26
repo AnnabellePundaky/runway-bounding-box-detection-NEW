@@ -37,4 +37,23 @@ NOTE: It should not matter which data set folder you take from LARD data set dow
 ![image](https://github.com/user-attachments/assets/4b001172-b908-4d86-84fb-72b0c490c370)
 
 
+**🎯 Results**
+Training Performance:
+- mAP50: 0.983
+- Precision: 0.986
+- Recall: 0.96
 
+Test Image: The test image successfully detected a runway with a confidence score of 0.98.
+
+**🚀 Future Improvements**
+- Use a GPU for faster training (e.g., on Google Colab).
+- Experiment with data augmentation to increase model robustness.
+- Test on many images
+- Deploy the model for real-time runway detection with live image streams.
+  
+**📜 License**
+This project is open-source and available under the MIT License.
+
+**🤝 Acknowledgments**
+- Ultralytics for providing the YOLOv8 framework.
+- LARD Dataset for training and validation data.
